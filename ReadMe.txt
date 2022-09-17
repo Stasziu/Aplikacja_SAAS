@@ -1,0 +1,1 @@
+Po uruchomieniu docker-compse na stronę można wejść wpisująć http://localhost:8001/login.php w przeglądarke
